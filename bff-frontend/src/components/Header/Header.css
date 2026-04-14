@@ -1,7 +1,7 @@
 .nav-container {
     color: white;
     display: flex;
-    width: 50%;
+    width: auto;
     border: 1px solid white;
 }
 
